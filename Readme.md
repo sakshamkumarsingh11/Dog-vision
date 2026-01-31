@@ -38,7 +38,7 @@ This project demonstrates a complete deep learning workflow:
 
 | File | Description |
 |-----|-------------|
-| `end-to-end-dog-vision-v2.ipynb` | Main notebook containing the full project workflow |
+| `Dog_vision.ipynb` | Main notebook containing the full project workflow |
 | Other `.ipynb` files | Supporting or experimental notebooks related to the same project |
 
 ---
@@ -50,7 +50,7 @@ This project demonstrates a complete deep learning workflow:
 - **TensorFlow Hub** (for transfer learning)
 - **NumPy**
 - **Matplotlib**
-- **Google Colab / Jupyter Notebook**
+- **Google Colab**
 
 ---
 
