@@ -91,4 +91,7 @@ This project demonstrates a complete deep learning workflow:
 ### Option 2: Run Locally
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   [git clone <your-repo-url>](https://github.com/sakshamkumarsingh11/Dog-vision.git)
+   pip install tensorflow tensorflow-hub numpy matplotlib
+   jupyter notebook
+
