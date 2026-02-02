@@ -94,4 +94,5 @@ This project demonstrates a complete deep learning workflow:
    [git clone <your-repo-url>](https://github.com/sakshamkumarsingh11/Dog-vision.git)
    pip install tensorflow tensorflow-hub numpy matplotlib
    jupyter notebook
-
+2. Public URL
+   https://huggingface.co/spaces/Sakshamks/Dog-prediction
